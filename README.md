@@ -26,3 +26,6 @@ The attention operation can be thought of as a retrieval process as well.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64821137/220430122-ea844bfa-a26f-45fd-8851-f1eeb7a2b3f8.png" />
 </p>
+
+![image](https://user-images.githubusercontent.com/64821137/220433640-9638efe8-7010-4293-adf5-60d9b81e12ec.png)
+
