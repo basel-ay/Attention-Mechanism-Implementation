@@ -1,4 +1,4 @@
-# Attention-Mechanism-from-scratch
+# Attention-Mechanism-Implementation
 
 The attention mechanism was introduced to improve the performance of the encoder-decoder model for machine translation. The idea behind the attention mechanism was to permit the decoder to utilize the most relevant parts of the input sequence in a flexible manner, by a weighted combination of all the encoded input vectors, with the most relevant vectors being attributed the highest weights.
 
